@@ -1,0 +1,7 @@
+name: sndemo
+dependencies:
+  - numpy
+  - pandas
+  - pytz
+  - ipywidgets
+  - plotly
