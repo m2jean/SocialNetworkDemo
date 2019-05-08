@@ -2,6 +2,7 @@ name: sndemo
 dependencies:
   - numpy
   - pandas
+  - pytables
   - pytz
   - ipywidgets
   - plotly
